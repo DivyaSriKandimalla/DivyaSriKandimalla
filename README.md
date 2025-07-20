@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyaSriKandimalla
 - 👀 I’m interested in python
-- 🌱 I’m currently learning nothing 
+- 🌱 I’m currently working on nothing 
 - 💞️ I’m looking to collaborate on MNC
 - 📫 How to reach me Mobile number : 9948093030
 
